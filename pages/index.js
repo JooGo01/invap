@@ -52,7 +52,7 @@ export default function Home() {
           </a>
         </div> */}
       </main>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Lcl--EQe-OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="80%" height="70%" src="https://www.youtube.com/embed/Lcl--EQe-OE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       {/* <footer className={styles.footer}>
         <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
